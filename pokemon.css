@@ -1,0 +1,80 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: snow;
+}
+header .navbar{
+    background-color: darkcyan;
+    width: 1680px;
+    margin-left: 13px;
+    height: 100px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    position: fixed;
+    display: inline-block;
+    margin-top: -110px;
+}
+.navbar h1{
+    margin-top: 0;
+    padding: 30px;
+    padding-left: 1500px;
+    color: snow;
+}
+.navbar h1 a{
+    text-decoration: none;
+    color: snow;
+}
+.navbar ul{
+    margin-top: -97px;
+}
+.navbar ul li{
+    display: inline-block;
+    margin: 10px;
+    font-weight: bold;
+}
+.navbar ul li a{    
+    text-decoration: none;
+    color: snow;
+}
+header img{
+    margin-left: 50px;
+    margin-top: 0px;
+    margin-right: 90px;
+    margin-bottom: -300px;
+    height: 400px;
+}
+header h2{
+    padding-top: 300px;
+    padding-left: 20px;
+}
+header p{
+    margin-left: 20px;
+}
+.pokemonh1{
+    margin-top: 110px;
+    margin-left: 20px;
+}
+.pokemonch{
+    background-color: red;
+    width: 500px;
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
+    display: inline-block;
+    border: 1px solid black;
+}
+.pokemonch:hover{
+    background-color: red;
+    border: 4px solid black;
+    width: 500;
+    margin-top: 50px;
+    margin-left: 16px;
+    margin-right: 16px;
+    border-radius: 50px;
+}
+.pokemonch h2, p{
+    color: snow;
+}
+

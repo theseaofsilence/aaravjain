@@ -1,0 +1,103 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: snow;
+}
+header .navbar{
+    background-color: darkcyan;
+    margin: 0;
+    width: 1675px;
+    margin-left: 13px;
+    height: 100px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    /* position: fixed; */
+    display: inline-block;
+}
+.navbar h1{
+    margin-top: 0;
+    padding: 30px;
+    padding-left: 1500px;
+    color: snow;
+}
+.navbar h1 a{
+    text-decoration: none;
+    color: snow;
+}
+.navbar ul{
+    margin-top: -97px;
+}
+.navbar ul li{
+    display: inline-block;
+    margin: 10px;
+    font-weight: bold;
+}
+.navbar ul li a{    
+    text-decoration: none;
+    color: snow;
+}
+header img{
+    margin-left: 900px;
+    margin-top: -332px;
+    display: inline-block;
+}
+header h2{
+    padding-top: 300px;
+    padding-left: 20px;
+}
+header p{
+    margin-left: 20px;
+}
+
+header img{
+    width: 200px;
+    height: 300px;
+    border-radius: 20px;
+}
+.avengers1{
+    margin-top: 60px;
+    margin-left: 109px;
+}
+.avengers2{
+    margin-top: 60px;
+    margin-left: 109px;
+}
+.avengers3{
+    margin-top: 60px;
+    margin-left: 109px;
+}
+.avengers4{
+    margin-top: 60px;
+    margin-left: 109px;
+}
+.avengers5{
+    margin-top: 60px;
+    margin-left: 109px;
+}
+.avengers6{
+    margin-top: 60px;
+    margin-left: 109px;
+}
+.avengers7{
+    margin-top: 60px;
+    margin-left: 109px;
+}
+.avengers8{
+    margin-top: 60px;
+    margin-left: 109px;
+}
+.avengers9{
+    margin-top: 60px;
+    margin-left: 109px;
+}
+.avengers10{
+    margin-top: 60px;
+    margin-left: 109px;
+}
+.avengers11{
+    margin-top: 60px;
+    margin-left: 109px;
+}
+
+
